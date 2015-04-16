@@ -4,3 +4,7 @@
 # Emacs
 - [Spacemacs](https://github.com/syl20bnr/spacemacs)
 - [Org-mode bookmarks](http://orgmode.org/worg/org-contrib/org-annotation-helper.html)
+
+# Eyecandy
+## Wallpapers
+- [Facets](http://www.facets.la/wallpapers/)
