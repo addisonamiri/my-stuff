@@ -6,5 +6,8 @@
 - [Org-mode bookmarks](http://orgmode.org/worg/org-contrib/org-annotation-helper.html)
 
 # Eyecandy
+## Terminal Colors
+- [Ninjaaron's github and the Matrix theme](https://github.com/ninjaaron/configs)
+- [Terminal.Sexy](https://terminal.sexy/)
 ## Wallpapers
 - [Facets](http://www.facets.la/wallpapers/)
