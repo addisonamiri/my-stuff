@@ -9,5 +9,6 @@
 ## Terminal Colors
 - [Ninjaaron's github and the Matrix theme](https://github.com/ninjaaron/configs)
 - [Terminal.Sexy](https://terminal.sexy/)
+
 ## Wallpapers
 - [Facets](http://www.facets.la/wallpapers/)
