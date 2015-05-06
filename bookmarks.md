@@ -1,4 +1,4 @@
-# Pentesting
+# Computer Security
 
 ## Metasploit
 - [Run metasploitable in Virtualbox](http://resources.infosecinstitute.com/running-metasploitable2-on-virtualbox/)
