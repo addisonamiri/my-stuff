@@ -17,6 +17,14 @@
 - [Org-mode bookmarks](http://orgmode.org/worg/org-contrib/org-annotation-helper.html)
 
 
+# Computing
+
+## Beginner Help
+- [Explain Shell](http://explainshell.com/)
+  - [Explain Shell Example](http://explainshell.com/explain?cmd=for%20user%20in%20%24%28cut%20-f1%20-d%3A%20/etc/passwd%29%3B%20do%20crontab%20-u%20%24user%20-l%202%3E/dev/null%3B%20done)
+- [RegExr](http://www.regexr.com/)
+
+
 # Eyecandy
 
 ## Terminal Colors
